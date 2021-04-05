@@ -1,0 +1,23 @@
+[
+  {
+    "id": "8309ce69-65a8-4685-8f72-1fc8df160acf",
+    "name": "LeBaron",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4dd32b84-1028-4456-873d-daf19e16fd7b",
+    "name": "CX-9",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1e8a1225-19d2-472b-a3e0-11268d285bda",
+    "name": "Charger",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]

@@ -20,7 +20,6 @@ async function mainLoop() {
 
     // 2 Bike,Avião,Navio 200000000 2000-01-01 2002-02-01
     const person = Person.generateInstanceFromString(answer);
-    console.log('person', person.formatted(DEFAULT_LANG));
     
     return mainLoop();
 
